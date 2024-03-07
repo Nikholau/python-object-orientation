@@ -1,3 +1,3 @@
-print('Olá Mundo')
-print('Olá Mundo', 'testando', 'nikholas')
-print("Dia", "Mẽs", "Ano")
+print('Hello World')
+print('Hello World', 'testing', 'nikholas')
+print("Day", "Month", "Year")
