@@ -12,3 +12,11 @@ print('Olá mundo')
 # operadores aritméticos
 
 +, -, *, /, // (divisão inteira), % (mod), ** (exponenciação)
+
+# operadores de comparação
+
+>, <, ==, !=
+
+# operadores de atribuição e lógicos
+
+and, or, not
